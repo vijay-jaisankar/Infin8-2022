@@ -1,4 +1,4 @@
-let header = document.querySelector('header-bar');
+let header = document.querySelector('header');
 let lastScrollY = window.scrollY;
 let video = document.querySelector('#myVideo');
 
