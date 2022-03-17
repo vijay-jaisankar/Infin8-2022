@@ -333,7 +333,7 @@ body {
 }
 
 .hero-content .entry-header h2 {
-    padding: 28px;
+    padding: 30px;
     margin: 0 auto;
     /* margin-right: 150px; */
     font-family: mountains;
@@ -1102,7 +1102,6 @@ body {
     background-size: cover;
     min-width: 100%;
     min-height: 100%;
-    z-index: -1;
 }
 
 .site-footer::before {
