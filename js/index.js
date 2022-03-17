@@ -3,7 +3,7 @@ let lastScrollY = window.scrollY;
 let video = document.querySelector('#myVideo');
 
 window.addEventListener('scroll', () => {
-    if (!header.classList.includes('site-navigation')) {
+    if (![...header.classList].includes('site-navigation')) {
         if (lastScrollY < window.scrollY) {
             header.classList.add('nav-hidden');
 

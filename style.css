@@ -327,6 +327,7 @@ body {
 }
 
 .hero-content .entry-header h2 {
+<<<<<<< HEAD
   padding: 28px;
   margin: 0 auto;
   /* margin-right: 150px; */
@@ -335,6 +336,16 @@ body {
   background: -webkit-linear-gradient(#00d0ff, #25ffbf);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+=======
+    padding: 30px;
+    margin: 0 auto;
+    /* margin-right: 150px; */
+    font-family: mountains;
+    font-size: 120px;
+    background: -webkit-linear-gradient(#00d0ff, #25ffbf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+>>>>>>> 0e937a0e9c1505c5cd4c849df21ef2e5fa4c06d6
 }
 
 .hero-content .entry-header .entry-meta-date {
@@ -1076,6 +1087,7 @@ body {
 ------------------------------------------------------------*/
 
 .site-footer {
+<<<<<<< HEAD
   position: relative;
   padding: 40px 0 30px;
   padding-bottom: 50px;
@@ -1084,6 +1096,15 @@ body {
   min-width: 100%;
   min-height: 100%;
   z-index: -1;
+=======
+    position: relative;
+    padding: 40px 0 30px;
+    padding-bottom: 50px;
+    background: url(./images/FooterCoverCrop.jpg) no-repeat;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100%;
+>>>>>>> 0e937a0e9c1505c5cd4c849df21ef2e5fa4c06d6
 }
 
 .site-footer::before {
