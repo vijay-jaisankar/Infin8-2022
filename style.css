@@ -1276,7 +1276,7 @@ body {
 }
 
 .about-us .page-header {
-    background: url("images/about-us-header-background.jpg") no-repeat;
+    background: url("images/eventsbanner.jpg") no-repeat;
     background-size: cover;
 }
 
@@ -1795,7 +1795,7 @@ body {
 ------------------------------------------------------------*/
 
 .blog-page .page-header {
-    background: url("images/blog-header-background.jpg") no-repeat;
+    background: url("images/about-us-header-background.jpg") no-repeat;
 }
 
 .blog-list-page .single-blog-content {
