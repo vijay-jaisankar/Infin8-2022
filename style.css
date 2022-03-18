@@ -1784,6 +1784,10 @@ body {
   display: block;
 }
 
+.single-blog-content a {
+  text-decoration: underline;
+}
+
 .blog-page .blog-list-page .blog-content {
   margin-top: 100px;
   box-shadow: 15px 18px 100px rgba(0, 0, 0, 0.1);
