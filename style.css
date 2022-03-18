@@ -638,6 +638,7 @@ body {
 .the-complete-lineup .entry-title p {
     margin: 0;
     padding: 0;
+    padding-left: 5px;
     font-size: 18px;
     font-weight: 600;
     color: hsl(0, 0%, 48%);
@@ -1276,7 +1277,7 @@ body {
 }
 
 .about-us .page-header {
-    background: url("images/eventsbanner.jpg") no-repeat;
+    background: url("images/back.jpg") no-repeat;
     background-size: cover;
 }
 
