@@ -308,7 +308,7 @@ body {
 
 .hero-content {
   padding: 150px 0;
-  background: url("images/temp_back.jpg") no-repeat;
+  background: url("images/temp_back.avif") no-repeat;
   background-size: cover;
 }
 
@@ -687,9 +687,9 @@ body {
   height: 100%;
 }
 
-/* .the-complete-lineup-artists .artist-single .featured-image a {
-    display: block;
-} */
+.the-complete-lineup-artists .artist-single a {
+  text-decoration: underline;
+}
 
 .the-complete-lineup-artists .artist-single h2 {
   margin-top: 38px;
