@@ -1878,9 +1878,22 @@ body {
 
 .blog-page .blog-list-page .blog-content .entry-content .entry-description {
     margin-top: 25px;
-    font-size: 24px;
+    font-size: 16px;
     color: #989898;
     line-height: 2;
+}
+
+.blog-page .entry-header .entry-title h2 {
+    font-size: 24px;
+}
+
+@media screen and (min-width: 767px) {
+    .blog-page .blog-list-page .blog-content .entry-content .entry-description {
+        font-size: 24px;
+    }
+    .blog-page .entry-header .entry-title h2 {
+        font-size: 48px;
+    }
 }
 
 .blog-page .blog-list-page .load-more {
