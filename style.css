@@ -536,7 +536,8 @@ body {
 
 .lineup-artists .lineup-artists-wrap .lineup-artists-description-container {
     position: relative;
-    padding: 30px;
+    padding: 25px;
+    margin-top: -16px;
     background: hsl(0, 0%, 100%);
     box-shadow: 50px 40px 115px rgba(0, 0, 0, 0.2);
 }
@@ -557,7 +558,7 @@ body {
 
 .lineup-artists-description .entry-content p {
     margin-top: 20px;
-    font-size: 15px;
+    font-size: 16px;
     color: hsl(0, 0%, 60%);
     line-height: 2;
     font-family: Helvetica, sans-serif;
@@ -597,7 +598,7 @@ body {
     .lineup-artists .lineup-artists-wrap .lineup-artists-description-container {
         position: absolute;
         z-index: 10;
-        top: 100px;
+        top: 75px;
         left: -75px;
         width: calc(100% + 75px);
     }
