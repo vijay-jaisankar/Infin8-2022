@@ -537,7 +537,6 @@ body {
 .lineup-artists .lineup-artists-wrap .lineup-artists-description-container {
     position: relative;
     padding: 25px;
-    margin-top: -16px;
     background: hsl(0, 0%, 100%);
     box-shadow: 50px 40px 115px rgba(0, 0, 0, 0.2);
 }
@@ -598,7 +597,7 @@ body {
     .lineup-artists .lineup-artists-wrap .lineup-artists-description-container {
         position: absolute;
         z-index: 10;
-        top: 75px;
+        top: 50px;
         left: -75px;
         width: calc(100% + 75px);
     }
