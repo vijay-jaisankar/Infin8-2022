@@ -569,6 +569,12 @@ body {
     font-family: Helvetica, sans-serif;
 }
 
+.lineup-artists-description .entry-content a {
+    color: black;
+    text-decoration: none;
+    font-family: Helvetica, sans-serif;
+}
+
 .lineup-artists-wrap .box-link {
     position: absolute;
     margin: 0;
